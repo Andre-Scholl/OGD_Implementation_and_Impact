@@ -6,4 +6,6 @@ The surveys each take a maximum of 10-15 minutes to fulfill. Please only partici
 Many thanks.
 1)	   <a href = https://unibe.eu.qualtrics.com/jfe/form/SV_cTNkSRRrAr16Shw> experts </a> : For individuals familiar with the concept of Open Government Data (OGD), across all sectors.
 2)	   [https://unibe.eu.qualtrics.com/jfe/form/SV_7OQUrsQdi2FaaN0](https://unibe.eu.qualtrics.com/jfe/form/SV_7OQUrsQdi2FaaN0) : For individuals working in the Public Sector who have used or/and published Open Government Data (OGD).
-3)	   [https://unibe.eu.qualtrics.com/jfe/form/SV_9YOmncBtA53xHGS] (https://unibe.eu.qualtrics.com/jfe/form/SV_9YOmncBtA53xHGS) : For individuals working in the Private Sector who have used Open Government Data (OGD).
+3)	   (https://unibe.eu.qualtrics.com/jfe/form/SV_9YOmncBtA53xHGS) : For individuals working in the Private Sector who have used Open Government Data (OGD).
+
+[https://unibe.eu.qualtrics.com/jfe/form/SV_7OQUrsQdi2FaaN0](https://unibe.eu.qualtrics.com/jfe/form/SV_7OQUrsQdi2FaaN0)
