@@ -13,4 +13,4 @@ https://unibe.eu.qualtrics.com/jfe/form/SV_7OQUrsQdi2FaaN0 : For individuals wor
 
 https://unibe.eu.qualtrics.com/jfe/form/SV_9YOmncBtA53xHGS : For individuals working in the Private Sector who have used Open Government Data (OGD).
 
-André Scholl, Research Assistant and PhD Candidate, Engehaldenstrasse 8, CH-3012 Bern, andre.scholl@iwi.unibe.ch
+André Scholl, Research Assistant and PhD Candidate, Engehaldenstrasse 8, CH-3012 Bern, andre.scholl@unibe.ch
