@@ -1,6 +1,6 @@
 # OGD Implementation and net Impact
 
-Following scientific surveys that are paramount for reaching an overview on and ontology of the most important current concepts concerning Open Government Data (OGD) and their relationships. 
+Following scientific surveys are paramount for reaching an overview on and ontology of the most important current concepts concerning Open Government Data (OGD) and their relationships. 
 Your valuable inputs in these surveys will help to implement OGD successfully and positively and to generate value for the whole society.
 
 The surveys each take a maximum of 10-15 minutes to fulfill. Please only participate in the one survey that suits you best and interests you the most.
